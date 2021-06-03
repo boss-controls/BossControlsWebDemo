@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30308.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BossControlsWebDev", "BossControlsWebDev\BossControlsWebDev.csproj", "{B2C3079E-DF58-4176-A2AD-A9B85888CE13}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BossDB", "BossDB\BossDB.sqlproj", "{8372C562-80E3-477B-90D6-4AE385F59849}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +15,6 @@ Global
 		{B2C3079E-DF58-4176-A2AD-A9B85888CE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2C3079E-DF58-4176-A2AD-A9B85888CE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2C3079E-DF58-4176-A2AD-A9B85888CE13}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8372C562-80E3-477B-90D6-4AE385F59849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8372C562-80E3-477B-90D6-4AE385F59849}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8372C562-80E3-477B-90D6-4AE385F59849}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{8372C562-80E3-477B-90D6-4AE385F59849}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8372C562-80E3-477B-90D6-4AE385F59849}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8372C562-80E3-477B-90D6-4AE385F59849}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
